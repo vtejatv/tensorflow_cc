@@ -30,7 +30,6 @@ apt-get -y install \
   libtool \
   mlocate \
   zlib1g-dev \
-  g++-7 \
   python \
   python3-numpy \
   python3-dev \
