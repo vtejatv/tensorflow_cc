@@ -59,4 +59,3 @@ apt-get -y clean
 updatedb
 
 # build and install tensorflow_cc
-/tensorflow_cc/Dockerfiles/install-common.sh "$@"
